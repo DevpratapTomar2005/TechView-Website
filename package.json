@@ -1,0 +1,14 @@
+{
+  "name": "techview-website",
+  "version": "1.0.0",
+  "description": "This is backend code for Techview website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devpratap Tomar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
